@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portofolio-card/static/css/main.dd7e07ad.css",
-    "main.js": "/portofolio-card/static/js/main.eaf85bb8.js",
-    "static/js/787.37f47b00.chunk.js": "/portofolio-card/static/js/787.37f47b00.chunk.js",
-    "static/media/gojo.png": "/portofolio-card/static/media/gojo.3b0082003e6c1d86fa95.png",
-    "static/media/logo.svg": "/portofolio-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/portofolio-card/index.html",
-    "main.dd7e07ad.css.map": "/portofolio-card/static/css/main.dd7e07ad.css.map",
-    "main.eaf85bb8.js.map": "/portofolio-card/static/js/main.eaf85bb8.js.map",
-    "787.37f47b00.chunk.js.map": "/portofolio-card/static/js/787.37f47b00.chunk.js.map"
+    "main.css": "/react-first-app/static/css/main.dd7e07ad.css",
+    "main.js": "/react-first-app/static/js/main.af07a17b.js",
+    "static/js/787.37f47b00.chunk.js": "/react-first-app/static/js/787.37f47b00.chunk.js",
+    "static/media/gojo.png": "/react-first-app/static/media/gojo.3b0082003e6c1d86fa95.png",
+    "static/media/logo.svg": "/react-first-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-first-app/index.html",
+    "main.dd7e07ad.css.map": "/react-first-app/static/css/main.dd7e07ad.css.map",
+    "main.af07a17b.js.map": "/react-first-app/static/js/main.af07a17b.js.map",
+    "787.37f47b00.chunk.js.map": "/react-first-app/static/js/787.37f47b00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd7e07ad.css",
-    "static/js/main.eaf85bb8.js"
+    "static/js/main.af07a17b.js"
   ]
 }
